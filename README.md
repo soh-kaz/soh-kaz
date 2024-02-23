@@ -12,9 +12,9 @@ I've honed my skills in building robust and scalable solutions using the MERN (M
 
 ## Skills
 
-- **Languages:** JavaScript (Node.js, React.js), HTML, CSS, PHP
+- **Languages:** JavaScript (Node.js, React.js), TypeScript, HTML, CSS, PHP
 - **Frameworks:** Express.js, Redux, Bootstrap, Tailwindcss, MaterialUI
 - **Databases:** MongoDB, MySQL, SQL Server, Redis
-- **Telephony:** Asterisk, Vicidial
-- **Tools & Technologies:** Git, RESTful APIs, Wordpress
-- **Designing:** Adobe Photoshop, Adobe Premiere, Adobe After Effects
+- **Telephony:** Asterisk, ViciDial, JsSIP
+- **Tools & Technologies:** Git, npm, RESTful APIs, GraphQL, Wordpress
+- **Designing:** Adobe Photoshop, Adobe Premiere, Adobe After Effects, Adobe In-Design
