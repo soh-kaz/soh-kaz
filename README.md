@@ -11,7 +11,7 @@
 ### ⚙️ Web & API Development
 - **MERN Stack**: MongoDB, Express.js, React.js, Node.js  
 - **Backend APIs**: FastAPI, PHP, Pydantic, Prisma, JWT, PM2  
-- **Frontend**: TypeScript, TailwindCSS, Ant Design, Bootstrap, Redux  
+- **Frontend**: Streamlit, TypeScript, TailwindCSS, Ant Design, Bootstrap, Redux  
 
 ### 🤖 AI, LLM & Machine Learning
 - **Frameworks**: LangChain, LangGraph, OpenAI, Sentence Transformers, HuggingFace  
