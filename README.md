@@ -14,7 +14,7 @@
 - **Frontend**: Streamlit, TypeScript, TailwindCSS, Ant Design, Bootstrap, Redux  
 
 ### 🤖 AI, LLM & Machine Learning
-- **Frameworks**: LangChain, LangGraph, OpenAI, Sentence Transformers, HuggingFace  
+- **Frameworks**: LangChain, LangGraph, AutoGen, Sentence Transformers, HuggingFace, Kyutai-STT-TTS, Orpheus-TTS, OpenAI Whisper   
 - **Techniques**: Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Stores (FAISS, Pinecone), Text Splitting  
 - **ML Expertise**: Model fine-tuning, pipelines, and foundational machine learning  
 
